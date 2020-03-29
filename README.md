@@ -14,7 +14,7 @@
 1. 通过安装以上ipks并正确设置，可实现透明代理并避免DNS污染，实际使用效果比在终端进行Pac 白名单更加稳定。
 2. 以上ipks 均有配置ipk和luci ipk, 请将两个ipk一并安装。
 
-### 0x02 其他资源：
+### 0x02 其他资源
 1. [设置DNS转发实现ChinaDNS](https://github.com/aa65535/openwrt-chinadns/wiki/Use-DNS-Forwarder).
 2. [Wiki: Luci-app-shadowsocks 设置及说明](https://github.com/shadowsocks/luci-app-shadowsocks/wiki)
 3. 其他详细教程请访问恩山论坛。
