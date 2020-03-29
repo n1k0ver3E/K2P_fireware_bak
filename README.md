@@ -16,5 +16,5 @@
 
 ### 0x02 其他资源：
 1. [设置DNS转发实现ChinaDNS](https://github.com/aa65535/openwrt-chinadns/wiki/Use-DNS-Forwarder).
-2. [Wiki: Luci-app-shadowsocks 设置及说明]([luci-app-shadowsocks](https://github.com/shadowsocks/luci-app-shadowsocks/wiki))
+2. [Wiki: Luci-app-shadowsocks 设置及说明](https://github.com/shadowsocks/luci-app-shadowsocks/wiki)
 3. 其他详细教程请访问恩山论坛。
