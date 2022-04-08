@@ -7,7 +7,7 @@
 2 - breed
 3 - openwrt -- 自用的openwrt_cc_v1.7.2系统固件，此版非纯净版，已预装酸酸乳，推荐下载16m
 4 - ipks -- 自用的支持k2p的固件(ChinaDNS, DNS-forwarder, 酸酸及全部相关依赖)
-5 - padavan -- 收集的一些养老毛子固件，本人自用 hanwckfK2P_nano-5.0.trx
+5 - padavan -- 收集的一些稳定(yanglap)的老毛子固件，本人自用 hanwckfK2P_nano-5.0.trx
 ```
 
 ### 0x01 使用说明
